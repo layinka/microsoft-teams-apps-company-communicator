@@ -152,7 +152,7 @@
       "metadata": {
         "description": "The branch of the GitHub repository to deploy."
       },
-      "defaultValue": "dontshow_sendacard"
+      "defaultValue": "nosendacard"
     }
   },
   "variables": {
